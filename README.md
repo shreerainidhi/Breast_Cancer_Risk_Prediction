@@ -15,7 +15,7 @@ The dataset contains features such as:
 ## Project Workflow
 The notebook follows these main steps:
 
-### 1.Data Import and Exploration
+### 1. Data Import and Exploration
 - Loading Data: The dataset is imported, and initial checks are performed for data quality and consistency.
 - Data Summary: A summary of key features, including distributions and missing values, provides an overview of the data.
 ### 2. Data Preprocessing
